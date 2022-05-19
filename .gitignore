@@ -1,0 +1,10 @@
+# ignore all logs
+__pycache__/
+.DS_Store
+.ipynb_checkpoints
+.Rhistory
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+
